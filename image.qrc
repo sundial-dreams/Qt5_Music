@@ -1,0 +1,209 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/ooopic_1500873206.png</file>
+        <file>image/ooopic_1500873213.png</file>
+        <file>image/control_fastforward_48px_1116016_easyicon.net.png</file>
+        <file>image/control_pause_48px_1116018_easyicon.net.png</file>
+        <file>image/control_play_48px_1116020_easyicon.net.png</file>
+        <file>image/control_resume_48px_1116021_easyicon.net.png</file>
+        <file>image/control_rewind_48px_1116022_easyicon.net.png</file>
+        <file>image/cf1b9d16fdfaaf51ff2fc9cd8b5494eef11f7af7.jpg</file>
+        <file>image/player-icons_32px_1137006_easyicon.net.png</file>
+        <file>image/player-icons_32px_1137007_easyicon.net.png</file>
+        <file>image/player-icons_32px_1137005_easyicon.net.png</file>
+        <file>image/clothes_shirt_32px_1092690_easyicon.net.png</file>
+        <file>image/ooopic_1500874163.png</file>
+        <file>image/volume_34.387096774194px_1170621_easyicon.net.png</file>
+        <file>image/list_32px_1142913_easyicon.net.png</file>
+        <file>image/ooopic_1501574971.png</file>
+        <file>image/ooopic_1501574981.png</file>
+        <file>image/like_outline_32px_1170275_easyicon.net.png</file>
+        <file>image/music_32px_1125557_easyicon.net.png</file>
+        <file>image/ooopic_1501283665.png</file>
+        <file>image/playlist_27.690544412607px_1187707_easyicon.net.png</file>
+        <file>image/point_list_32px_1190662_easyicon.net.png</file>
+        <file>image/like_32px_1101682_easyicon.net.png</file>
+        <file>image/like_outline_32px_1101681_easyicon.net.png</file>
+        <file>image/54d7b9126e95520bff3d7941.jpg</file>
+        <file>image/add_32px_1163593_easyicon.net.png</file>
+        <file>image/clothes_shirt_48px_1115981_easyicon.net.png</file>
+        <file>image/right_arrow_34.840236686391px_1171291_easyicon.net.png</file>
+        <file>image/setting_32px_1143813_easyicon.net.png</file>
+        <file>image/out_32px_1130935_easyicon.net.png</file>
+        <file>image/picture_photo_32px_1075812_easyicon.net.png</file>
+        <file>image/list_32px_1074296_easyicon.net.png</file>
+        <file>image/volume_32px_1138024_easyicon.net.png</file>
+        <file>image/volume_off_32px_1138028_easyicon.net.png</file>
+        <file>image/151327vho1hxr1op1lh6mz.jpg</file>
+        <file>image/ooopic_1501283454.png</file>
+        <file>image/arrow_left_square_32px_1187786_easyicon.net.png</file>
+        <file>image/arrow_right_square_32px_1187789_easyicon.net.png</file>
+        <file>image/location_32px_1074876_easyicon.net.png</file>
+        <file>image/ooopic_1500873230.png</file>
+        <file>image/ooopic_1500873272.png</file>
+        <file>image/ooopic_1500874104.png</file>
+        <file>image/remove_24px_1103588_easyicon.net.png</file>
+        <file>image/minimize_24px_1103569_easyicon.net.png</file>
+        <file>image/restore_24px_1103598_easyicon.net.png</file>
+        <file>image/plus_32px_1187514_easyicon.net.png</file>
+        <file>image/minus_306.28571428571px_1187500_easyicon.net.png</file>
+        <file>image/594b93a3e7bce77b69d4cf6d.jpg</file>
+        <file>image/delete_32px_1168909_easyicon.net.png</file>
+        <file>image/play_25.008403361345px_1188133_easyicon.net.png</file>
+        <file>image/Music_32px_1144946_easyicon.net.png</file>
+        <file>image/music_37.511568123393px_1160840_easyicon.net.png</file>
+        <file>image/music_not_25.570093457944px_1171234_easyicon.net.png</file>
+        <file>image/ios8_Music_48px_1173465_easyicon.net.png</file>
+        <file>image/ooopic_1501575097.png</file>
+        <file>image/ooopic_1501575103.png</file>
+        <file>image/arrow_two_left_right_34.363636363636px_1189163_easyicon.net.png</file>
+        <file>image/ooopic_1501575085.png</file>
+        <file>image/ooopic_1501575091.png</file>
+        <file>image/edit_clear_locationbar_ltr_32px_539686_easyicon.net.png</file>
+        <file>image/叉号.png</file>
+        <file>image/最小化 (1).png</file>
+        <file>image/皮肤 (1).png</file>
+        <file>image/退出 (1).png</file>
+        <file>image/最小化.png</file>
+        <file>image/退出 (3).png</file>
+        <file>image/jiangtou2.png</file>
+        <file>image/jiantou.png</file>
+        <file>image/音量.png</file>
+        <file>image/定位 (1).png</file>
+        <file>image/bofang.png</file>
+        <file>image/bofang1.png</file>
+        <file>image/moshi.png</file>
+        <file>image/moshi1.png</file>
+        <file>image/next.png</file>
+        <file>image/jy.png</file>
+        <file>image/yingliang.png</file>
+        <file>image/pf.png</file>
+        <file>image/tc.png</file>
+        <file>image/ss.png</file>
+        <file>image/ss1.png</file>
+        <file>image/Music_Eye_128px_1144947_easyicon.net.png</file>
+        <file>image/sss.png</file>
+        <file>image/bf.png</file>
+        <file>image/bf1.png</file>
+        <file>image/next1.png</file>
+        <file>image/下一首(底部) (1).png</file>
+        <file>image/下一首(底部).png</file>
+        <file>image/pre1.png</file>
+        <file>image/zangting.png</file>
+        <file>image/退出 (5).png</file>
+        <file>image/圆形 (1).png</file>
+        <file>image/圆形 (2).png</file>
+        <file>image/圆形 (3).png</file>
+        <file>image/圆形 (4).png</file>
+        <file>image/圆形 (5).png</file>
+        <file>image/圆形.png</file>
+        <file>image/圆形 (6).png</file>
+        <file>image/圆形 (7).png</file>
+        <file>image/圆形 (8).png</file>
+        <file>image/ios8_Music_32px_1173465_easyicon.net.png</file>
+        <file>image/圆形 (9).png</file>
+        <file>image/圆形 (10).png</file>
+        <file>image/56f379fb69401b4eb5d52abc (2).jpg</file>
+        <file>image/20120225161746_n3fr4 (2).jpg</file>
+        <file>image/cf1b9d16fdfaaf51ff2fc9cd8b5494eef11f7af7 (3).jpg</file>
+        <file>image/nihao.jpg</file>
+        <file>image/inf.png</file>
+        <file>image/add.png</file>
+        <file>image/sub.png</file>
+        <file>image/58cb95bde7bce713bd500d86.png</file>
+        <file>image/59006e54e7bce713bd501cd7.jpg</file>
+        <file>image/59106362042208421aaabcb9.jpg</file>
+        <file>image/pf2.png</file>
+        <file>image/pf3.png</file>
+        <file>image/pf4.png</file>
+        <file>image/pf5.png</file>
+        <file>image/59373528e7bce75645eb757a.jpg</file>
+        <file>image/589d8aa99fd71a2af1b3c3ee (2).jpg</file>
+        <file>image/5971bd2fe7bce76b7e577a90 (2).jpg</file>
+        <file>image/nextbo.png</file>
+        <file>image/58c8e799e7bce71354b2ae8c (2).jpg</file>
+        <file>image/duoxuan.png</file>
+        <file>image/quxiao.png</file>
+        <file>image/bf2.png</file>
+        <file>image/bofang12.png</file>
+        <file>image/bf13.png</file>
+        <file>image/zt13.png</file>
+        <file>image/58be704ae7bce713bd5009aa.jpg</file>
+        <file>image/58d4d135e7bce713bd501050.jpg</file>
+        <file>image/58de33fee7bce71391c8fbc2.jpg</file>
+        <file>image/max.png</file>
+        <file>image/min.png</file>
+        <file>image/quit.png</file>
+        <file>image/face-hover.png</file>
+        <file>image/face.png</file>
+        <file>image/tr.png</file>
+        <file>image/image-hover/Ilike1-hover.png</file>
+        <file>image/image-hover/Ilike-hover.png</file>
+        <file>image/image-hover/jump-hover.png</file>
+        <file>image/image-hover/like-hover.png</file>
+        <file>image/image-hover/list-hover.png</file>
+        <file>image/image-hover/loop-hover.png</file>
+        <file>image/image-hover/loop-list-hover.png</file>
+        <file>image/image-hover/loop-one-hover.png</file>
+        <file>image/image-hover/music-hover.png</file>
+        <file>image/image-hover/music-voice-hover.png</file>
+        <file>image/image-hover/none-music-hover.png</file>
+        <file>image/image-hover/pase-hover.png</file>
+        <file>image/image-hover/play-hover.png</file>
+        <file>image/image-hover/playlist-hover.png</file>
+        <file>image/image-hover/play-random-hover.png</file>
+        <file>image/image-hover/play-resently-hover.png</file>
+        <file>image/image-hover/position-hover.png</file>
+        <file>image/image-hover/pre-hover.png</file>
+        <file>image/image-hover/right-hover.png</file>
+        <file>image/image-hover/sereach-hover.png</file>
+        <file>image/image/face.png</file>
+        <file>image/image/Ilike.png</file>
+        <file>image/image/Ilike1.png</file>
+        <file>image/image/jump.png</file>
+        <file>image/image/like.png</file>
+        <file>image/image/list.png</file>
+        <file>image/image/loop.png</file>
+        <file>image/image/loop-list.png</file>
+        <file>image/image/loop-one.png</file>
+        <file>image/image/max.png</file>
+        <file>image/image/min.png</file>
+        <file>image/image/music.png</file>
+        <file>image/image/music-voice.png</file>
+        <file>image/image/none-music.png</file>
+        <file>image/image/pase.png</file>
+        <file>image/image/play.png</file>
+        <file>image/image/playlist.png</file>
+        <file>image/image/play-random.png</file>
+        <file>image/image/play-resently.png</file>
+        <file>image/image/position.png</file>
+        <file>image/image/pre.png</file>
+        <file>image/image/quit.png</file>
+        <file>image/image/right.png</file>
+        <file>image/image/sereach.png</file>
+        <file>image/image/tr.png</file>
+        <file>image/image/播放.png</file>
+        <file>image/image/皮肤 (1).png</file>
+        <file>image/pre.png</file>
+        <file>image/image/add.png</file>
+        <file>image/image/left-arrow.png</file>
+        <file>image/image/next.png</file>
+        <file>image/image-hover/add-hover.png</file>
+        <file>image/image-hover/left-arrow-hover.png</file>
+        <file>image/image-hover/next-hover.png</file>
+        <file>image/image/left.png</file>
+        <file>image/image/setting.png</file>
+        <file>image/image-hover/left-light.png</file>
+        <file>image/image-hover/setting.png</file>
+        <file>image/background/bg1.jpg</file>
+        <file>image/background/bg2.jpg</file>
+        <file>image/notes_music_37px_1171342_easyicon.net.png</file>
+        <file>image/background/bg3.jpg</file>
+        <file>image/background/bg4.jpg</file>
+        <file>image/background/bg5.jpg</file>
+        <file>image/background/bg6.jpg</file>
+        <file>ooopic_1520340986.ico</file>
+        <file>image/background/bg7.jpg</file>
+        <file>image/background/bg8.jpg</file>
+    </qresource>
+</RCC>
